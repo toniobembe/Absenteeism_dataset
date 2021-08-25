@@ -7,5 +7,5 @@
 <br>
 <p>hen I created a python module to use to load and clean data before putting it through the regression to predict if they were more likely to be absent over 0.5 and gained the probabilities and in the integration I show it being deployed and saving the new outputs in a csv file</p>
 <h2>Tableau</h2>
-<p>I then visualised some of the data in tableau</p>
+<p>I then visualised some of the data obtained in tableau public <a href="https://public.tableau.com/app/profile/oluwatoni.obembe/viz/Absenteesim_Module_Visualisation/TransportationExpenseandChilldren?publish=yes" target="_blank">click here</a></p>
 
